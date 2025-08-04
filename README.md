@@ -134,3 +134,61 @@
 - 校外販售價 (Off Campus)
 
 </details>
+
+---
+
+## 高麗元
+
+**電話：** 0968-826-363
+
+**營業時間：** 週日
+
+<details>
+<summary>菜單</summary>
+
+### 拌飯類 (Bibimbap)
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 韓式蔬菜拌飯 | Korean Vegetable Bibimbap | 60 | 70 |
+| 韓式豬肉拌飯 | Korean Pork Bibimbap | 80 | 90 |
+| 韓式牛肉拌飯 | Korean Beef Bibimbap | 85 | 95 |
+| 韓式雞排拌飯 | Korean Chicken Leg Bibimbap | 80 | 90 |
+| 韓式炸雞拌飯 | Korean Fried Chicken Bibimbap | 80 | 90 |
+| 韓式烤雞肉拌飯 | Korean BBQ Chicken Bibimbap | 85 | 95 |
+
+### 烤肉類 (Roast Food / Barbeque)
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 韓式烤豬肉飯 | Korean BBQ Pork Rice | 80 | 90 |
+| 韓式烤牛肉飯 | Korean BBQ Beef Rice | 85 | 95 |
+| 韓式烤雞肉飯 | Korean BBQ Chicken Rice | 85 | 95 |
+| 韓式雞排飯 | Korean Chicken Leg Rice | 75 | 85 |
+| 韓式蜜汁雞排飯 | Korean Honey Chicken Rice | 80 | 90 |
+| 韓式炸雞飯 | Korean Fried Chicken Rice | 80 | 90 |
+| 韓式雞排飯 | Korean Chicken Chop Rice | 95 | 105 |
+| 韓式安東雞肉飯 | Korean Andong Chicken Rice | 85 | 95 |
+| 韓式黑豬排飯 | Korean Black Pork Chop Rice | 80 | 90 |
+| 四菜飯 | Four Course Meal | 60 | 70 |
+
+### 小火鍋類 (Small Hot Pot)
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 蔬菜豆腐鍋 | Vegetable Tofu Hot Pot | 80 | 90 |
+| 蔬菜泡菜鍋 | Vegetable Kimchi Hot Pot | 80 | 90 |
+| 豆腐泡菜鍋 | Tofu Kimchi Hot Pot | 85 | 95 |
+| 豬肉豆腐鍋 | Pork Tofu Hot Pot | 95 | 105 |
+| 豬肉泡菜鍋 | Pork Kimchi Hot Pot | 95 | 105 |
+| 牛肉豆腐鍋 | Beef Tofu Hot Pot | 100 | 110 |
+| 牛肉泡菜鍋 | Beef Kimchi Hot Pot | 100 | 110 |
+| 蔬菜部隊鍋 | Vegetable Cheese Hot Pot | 90 | 100 |
+| 豬肉部隊鍋 | Pork Cheese Hot Pot | 110 | 120 |
+| 牛肉部隊鍋 | Beef Cheese Hot Pot | 120 | 130 |
+
+**備註：**
+- 校內優惠價 (On Campus)
+- 校外販售價 (Off Campus)
+
+</details>
