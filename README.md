@@ -61,30 +61,31 @@
 
 | 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
 |---------|----------|----------|----------|
-| 榨瓜大乾麵 | Large Dry Noodles | 50 | 60 |
+| 傻瓜大乾麵 | Large Dry Noodles | 50 | 60 |
 | 肉燥大乾麵 | Large Dry Noodles with Meat | 55 | 65 |
 | 擔仔麵 | Tann-ah Noodles | 55 | 65 |
 | 切仔麵 | Noodle Soup | 55 | 65 |
 | 貢丸麵 | Meatball Noodles | 55 | 65 |
 | 魚丸麵 | Fishball Noodles | 55 | 65 |
 | 大滷麵 | Braised Noodles | 65 | 75 |
-| 鴨子麵 | Sour Noodles Soup with Minced Pork | 65 | 75 |
+| 哨子麵 | Sour Noodles Soup with Minced Pork | 65 | 75 |
 | 鮮肉餛飩麵 | Fresh Meat Wonton Noodles | 60 | 70 |
 | 鮮肉餛飩乾麵 | Fresh Meat Wonton Dry Noodles | 60 | 70 |
 | 酸辣餛飩麵 | Sour and Spicy Wonton Noodles | 65 | 75 |
+| 紅油抄手麵 | Spicy Wonton Noodles | 60 | 70 |
 
 ### 麵/飯類 (Noodles/Rice)
 
 | 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
 |---------|----------|----------|----------|
-| 香菇雞湯/飯 | Chicken and Mushrooms Noodles/Rice | 85 | 95 |
-| 麻油雞湯/飯 | Sesame Oil Chicken Noodles/Rice | 85 | 95 |
-| 十全大補雞湯/飯 | Ten Ingredients Chicken Noodles/Rice | 85 | 95 |
-| 赤肉羹湯/飯 | Noodles/Rice in Thick Soup with Pork | 65 | 75 |
-| 魷魚羹湯/飯 | Noodles/Rice in Thick Soup with Squid | 65 | 75 |
-| 花枝羹湯/飯 | Noodles/Rice in Thick Soup with Cuttlefish | 65 | 75 |
-| 麻婆豆腐湯/飯 | Mapo Tofu Noodles/Rice | 55 | 65 |
-| 起司茄汁肉燥湯/飯 | Cheese Tomato Meat Sauce Rice/Noodles | 80 | 90 |
+| 香菇雞麵/飯 | Chicken and Mushrooms Noodles/Rice | 85 | 95 |
+| 麻油雞麵/飯 | Sesame Oil Chicken Noodles/Rice | 85 | 95 |
+| 十全大補雞麵/飯 | Ten Ingredients Chicken Noodles/Rice | 85 | 95 |
+| 赤肉羹麵/飯 | Noodles/Rice in Thick Soup with Pork | 65 | 75 |
+| 魷魚羹麵/飯 | Noodles/Rice in Thick Soup with Squid | 65 | 75 |
+| 花枝羹麵/飯 | Noodles/Rice in Thick Soup with Cuttlefish | 65 | 75 |
+| 麻婆豆腐麵/飯 | Mapo Tofu Noodles/Rice | 55 | 65 |
+| 起司茄汁肉燥麵/飯 | Cheese Tomato Meat Sauce Rice/Noodles | 80 | 90 |
 
 ### 湯品 (Soup)
 
@@ -94,40 +95,39 @@
 | 魚丸湯 | Fishball Soup | 30 | 40 |
 | 貢丸湯 | Meatball Soup | 30 | 40 |
 | 酸辣湯 | Sour and Spicy Soup | 30 | 40 |
-| 蛤蜊雞湯 | Mushrooms and Chicken Soup | 65 | 75 |
-| 黃油雞湯 | Sesame Oil Chicken Soup | 65 | 75 |
-| 十全雞湯 | Ten Ingredients Chicken Soup | 65 | 75 |
+| 香菇雞湯 | Mushrooms and Chicken Soup | 65 | 75 |
+| 麻油雞湯 | Sesame Oil Chicken Soup | 65 | 75 |
+| 十全大補雞湯 | Ten Ingredients Chicken Soup | 65 | 75 |
 | 鮮肉餛飩湯 | Fresh Meat Wonton Soup | 50 | 60 |
 
-### 火鍋類 (Dumplings/Hot Pot)
+### 水餃類 (Dumplings)
 
 | 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
 |---------|----------|----------|----------|
 | 韭菜水餃 | Chive Dumplings | 75 | 85 |
 | 高麗菜水餃 | Cabbage and Pork Dumplings | 75 | 85 |
-| 酸菜水餃 | Hot and Sour Soup Dumpling Noodles | 85 | 95 |
-| 香菇雞湯水餃 | Mushroom Chicken Soup Dumpling Noodles | 85 | 95 |
+| 酸辣湯餃麵 | Hot and Sour Soup Dumpling Noodles | 85 | 95 |
+| 香菇雞湯湯餃麵 | Mushroom Chicken Soup Dumpling Noodles | 85 | 95 |
 
 ### 鍋類 (Hot Pot)
 
 | 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
 |---------|----------|----------|----------|
-| 酸菜菜肉鍋 | Pickled Vegetables with Pork | 85 | 95 |
+| 酸菜豬肉鍋 | Pickled Vegetables with Pork | 85 | 95 |
 | 菇菇豬肉鍋 | Mushrooms and Pork Stew | 85 | 95 |
 | 蔬菜豬肉鍋 | Vegetables and Pork Stew | 95 | 105 |
-| 麻辣豬肉鍋 | Pork Mala Stew | 85 | 95 |
+| 麻辣豬肉鍋 | Pork Mala Stew | 95 | 105 |
 | 泡菜豬肉鍋 | Kimchi Pork Stew | 85 | 95 |
-| 雞肉蔬菜鍋 | Vegetables and Chicken Stew | - | - |
+| 雞肉蔬菜鍋 | Vegetables and Chicken Stew | 85 | 95 |
 
 ### 其他 (Others)
 
 | 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
 |---------|----------|----------|----------|
-| 滷蛋 | Braised Egg | 30 | 40 |
-| 紅蘿蔔 | Steamed Vegetables | 50 | 60 |
-| 紅蘿蔔手 | Spicy Wonton | 95 | 105 |
-| 十綜蔬菜冬粉湯 | Ten Ingredient Mixed Chicken Vermicelli Soup | 95 | 105 |
-| 蒜蓉肉冬粉湯 | Roasted Pork Dumpling Vermicelli Soup | - | - |
+| 燙青菜 | Blanched Vegetables | 30 | 40 |
+| 紅油抄手 | Spicy Wonton | 50 | 60 |
+| 十錦雞肉冬粉煲 | Ten Ingredients Chicken Vermicelli Soup | 95 | 105 |
+| 蘿蔔燒肉冬粉煲 | Roasted Pork Pineapple Vermicelli Soup | 95 | 105 |
 
 **備註：**
 - 校內優惠價 (On Campus)
