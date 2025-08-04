@@ -153,7 +153,7 @@
 | 韓式蔬菜拌飯 | Korean Vegetable Bibimbap | 60 | 70 |
 | 韓式豬肉拌飯 | Korean Pork Bibimbap | 80 | 90 |
 | 韓式牛肉拌飯 | Korean Beef Bibimbap | 85 | 95 |
-| 韓式雞排拌飯 | Korean Chicken Leg Bibimbap | 80 | 90 |
+| 韓式腿排拌飯 | Korean Chicken Leg Bibimbap | 80 | 90 |
 | 韓式炸雞拌飯 | Korean Fried Chicken Bibimbap | 80 | 90 |
 | 韓式烤雞肉拌飯 | Korean BBQ Chicken Bibimbap | 85 | 95 |
 
@@ -164,8 +164,8 @@
 | 韓式烤豬肉飯 | Korean BBQ Pork Rice | 80 | 90 |
 | 韓式烤牛肉飯 | Korean BBQ Beef Rice | 85 | 95 |
 | 韓式烤雞肉飯 | Korean BBQ Chicken Rice | 85 | 95 |
-| 韓式雞排飯 | Korean Chicken Leg Rice | 75 | 85 |
-| 韓式蜜汁雞排飯 | Korean Honey Chicken Rice | 80 | 90 |
+| 韓式腿排飯 | Korean Chicken Leg Rice | 75 | 85 |
+| 韓式蜜汁腿排飯 | Korean Honey Chicken Rice | 80 | 90 |
 | 韓式炸雞飯 | Korean Fried Chicken Rice | 80 | 90 |
 | 韓式雞排飯 | Korean Chicken Chop Rice | 95 | 105 |
 | 韓式安東雞肉飯 | Korean Andong Chicken Rice | 85 | 95 |
@@ -205,73 +205,58 @@
 <details>
 <summary>菜單</summary>
 
-### 乾拌麵類
+### 麵類
 
 | 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
 |---------|----------|----------|----------|
-| 蔬菜肉燥乾拌麵 | Dried Vegetables and Meat Noodles | 80 | 90 |
-| 豆豉醬 | Double Sauce Noodles | 80 | 90 |
+| 菜菜肉燥乾拌麵 | Dried Vegetables and Meat Noodles | 80 | 90 |
+| 雙醬麵 | Double Sauce Noodles | 80 | 90 |
 | 乾拌麵(小) | Dry Noodle (Small) | 45 | 55 |
 | 乾拌麵(大) | Dry Noodle (Big) | 65 | 75 |
-| 乾拌義麵(小) | Dry Pasta (Small) | 45 | 55 |
-| 乾拌義麵(大) | Dry Pasta (Big) | 65 | 75 |
-| 招牌咪咪豆麵(可素) | Signature Mimi Bean Noodles (Can Choose Vegetarian) | 80 | 90 |
-| 麻將乾拌義麵 | Sesame Sauce Dry Tossed Noodles | 50 | 60 |
-| 菜菜乾拌蕎麥麵 | Vegetarian Sesame Sauce Noodles | 80 | 90 |
-| 馬醬乾拌義麵(大) | Large Sesame Sauce Dry Tossed Noodles | 75 | 85 |
-
-### 刀削麵類
-
-| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
-|---------|----------|----------|----------|
-| 菜菜咸煎刀削拌麵 | Noodle with Sesame Sauce and Fried Sauce | 80 | 90 |
-| 菜菜咸煎刀削拌麵(素) | Noodle with Sesame Sauce and Fried Sauce (Vegetarian) | 80 | 90 |
-| 宮廷炸刀削拌麵 | Spicy Fried Noodles | 80 | 90 |
-| 菜菜三杯刀削麵 | Three Cups Knife-Cut Noodles with Vegetables | 80 | 90 |
-
-### 湯麵類
-
-| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
-|---------|----------|----------|----------|
-| 義大利麵 | Pasta with Vegetables and Pork | 80 | 90 |
-| 泡菜義麵 | Kimchi Pasta | 65 | 75 |
+| 菜菜肉燥意麵 | Pasta with Vegetables and Pork | 80 | 90 |
+| 泡菜意麵 | Kimchi Pasta | 65 | 75 |
+| 乾拌意麵(小) | Dry Pasta (Small) | 45 | 55 |
+| 乾拌意麵(大) | Dry Pasta (Big) | 65 | 75 |
+| 招牌味增湯麵(可素) | Signature Miso Soup Noodles (Can Choose Vegetarian) | 80 | 90 |
 | 紫菜蕃茄烏龍湯麵 | Seaweed and Tomato Oolong Noodle Soup | 80 | 90 |
 | 蕃茄烏龍麵 | Tomato Udon | 80 | 90 |
-| 菜菜雙醬蕃茄烏龍麵 | Double Sauce Tomato Udon | 80 | 90 |
-| 菜菜雙醬蕃茄烏龍麵(素) | Double Sauce Tomato Udon (Vegetarian) | 80 | 90 |
-| 燒汁柴魚烏龍麵 | Sautéed Bonito Udon | 80 | 90 |
-| 菜菜三杯蕃茄烏龍麵 | Three Cups Tomato Udon Noodles with Vegetables | 80 | 90 |
-| 菜菜三杯義麵 | Three Cups Noodles with Vegetables | 80 | 90 |
-| 蒜香牛奶湯麵 | Garlic Milk Soup Noodles | 100 | 110 |
-
-### 其他麵類
-
-| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
-|---------|----------|----------|----------|
 | 蕎麥麵 | Soba Noodles | 80 | 90 |
 | 藜麥麵 | Quinoa Noodles | 80 | 90 |
 | 綠藻麵 | Chlorella Noodles | 80 | 90 |
 | 黃涼麵 | Yellow Cold Noodles | 80 | 90 |
+| 菜菜雙醬刀削拌麵 | Noodle with Sesame Sauce and Fried Sauce | 80 | 90 |
+| 菜菜麻醬刀削拌麵(素) | Noodle with Sesame Sauce and Fried Sauce (Vegetarian) | 80 | 90 |
+| 麻不辣刀削拌麵 | Spicy Noodles | 80 | 90 |
+| 菜菜雙醬蕃茄烏龍麵 | Double Sauce Tomato Udon | 80 | 90 |
+| 菜菜麻醬蕃茄烏龍麵(素) | Double Sauce Tomato Udon (Vegetarian) | 80 | 90 |
+| 爆香柴魚烏龍麵 | Sauteed Bonito Udon | 80 | 90 |
 | 紅龍果涼麵 | Dragon Fruit Cold Noodles | 80 | 90 |
 | 三杯麵 | Three Cups Noodles | 80 | 90 |
 | 菜菜三杯麵 | Three Cups Noodles with Vegetables | 80 | 90 |
+| 菜菜三杯蕃茄烏龍麵 | Three Cups Tomato Udon Noodles with Vegetables | 80 | 90 |
+| 菜菜三杯意麵 | Three Cups Noodles Yi Mein with Vegetables | 80 | 90 |
+| 菜菜三杯刀削麵 | Three Cups Knife-Cut Noodles with Vegetables | 80 | 90 |
+| 蒜香牛奶湯麵 | Garlic Milk Soup Noodles | 100 | 110 |
+| 麻醬乾拌意麵 | Sesame Sauce Dry Tossed Noodles | 50 | 60 |
+| 菜菜麻醬意麵 | Vegetarian Sesame Sauce Noodles | 80 | 90 |
+| 麻醬乾拌意麵(大) | Large Sesame Sauce Dry Tossed Noodles | 75 | 85 |
 
 ### 小菜配菜
 
 | 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
 |---------|----------|----------|----------|
-| 媽心蛋 | Soft-boiled Egg | 25 | 35 |
+| 溏心蛋 | Soft-boiled Egg | 25 | 35 |
 | 舒肥雞 | Sous Vide Chicken Breast | 30 | 40 |
-| 滷豆芽菜 | Bean Sprouts | 30 | 40 |
+| 燙豆芽菜 | Bean Sprouts | 30 | 40 |
 | 味噌湯(素) | Miso Soup (Vegetarian) | 15 | 25 |
 
 ### 加購項目
 
-| 中文名稱 | 價格 |
-|---------|------|
-| 水煮蛋 | 10 |
-| 媽心蛋 | 25 |
-| 舒肥雞 | 30 |
+| 中文名稱 | 英文名稱 | 價格 |
+|---------|----------|----------|
+| 水煮蛋 | Boiled Egg | 10 |
+| 溏心蛋 | Soft-boiled Egg | 25 |
+| 舒肥雞 | Sous Vide Chicken Breast | 30 |
 
 **備註：**
 - 校內優惠價 (On Campus)
