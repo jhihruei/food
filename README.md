@@ -7,6 +7,9 @@
 <details>
 <summary>菜單</summary>
 
+**菜單僅供參考，實際品項、金額以店家公告為準**  
+**Menu is for reference only. Actual items and prices are subject to store announcements.**
+
 ### 包子類
 
 | 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
@@ -54,6 +57,9 @@
 
 <details>
 <summary>菜單</summary>
+
+**菜單僅供參考，實際品項、金額以店家公告為準**  
+**Menu is for reference only. Actual items and prices are subject to store announcements.**
 
 ### 麵類 (Noodles)
 
@@ -144,6 +150,9 @@
 <details>
 <summary>菜單</summary>
 
+**菜單僅供參考，實際品項、金額以店家公告為準**  
+**Menu is for reference only. Actual items and prices are subject to store announcements.**
+
 ### 拌飯類 (Bibimbap)
 
 | 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
@@ -203,6 +212,9 @@
 <details>
 <summary>菜單</summary>
 
+**菜單僅供參考，實際品項、金額以店家公告為準**  
+**Menu is for reference only. Actual items and prices are subject to store announcements.**
+
 ### 麵類
 
 | 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
@@ -255,6 +267,21 @@
 | 水煮蛋 | Boiled Egg | 10 |
 | 溏心蛋 | Soft-boiled Egg | 25 |
 | 舒肥雞 | Sous Vide Chicken Breast | 30 |
+
+### 自選麵（均一價 80 元）
+- Step 1：麵體（五選一）
+  - 藜麥麵
+  - 綠藻麵
+  - 蕎麥麵
+  - 黃涼麵
+  - 紅龍果麵
+- Step 2：醬汁（四選一）
+  - 芝麻醬
+  - 和風醬
+  - 柴魚醬
+  - 四川麻辣醬
+- Step 3：配料
+  - 現場選五種配料
 
 **備註：**
 - 校內優惠價 (On Campus)
