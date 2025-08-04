@@ -192,3 +192,89 @@
 - 校外販售價 (Off Campus)
 
 </details>
+
+
+---
+
+## 涼麵自由吧
+
+**電話：** 無 - 僅現場預訂
+
+**營業時間：** 週六、週日 11:00 - 19:00
+
+<details>
+<summary>菜單</summary>
+
+### 乾拌麵類
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 蔬菜肉燥乾拌麵 | Dried Vegetables and Meat Noodles | 80 | 90 |
+| 豆豉醬 | Double Sauce Noodles | 80 | 90 |
+| 乾拌麵(小) | Dry Noodle (Small) | 45 | 55 |
+| 乾拌麵(大) | Dry Noodle (Big) | 65 | 75 |
+| 乾拌義麵(小) | Dry Pasta (Small) | 45 | 55 |
+| 乾拌義麵(大) | Dry Pasta (Big) | 65 | 75 |
+| 招牌咪咪豆麵(可素) | Signature Mimi Bean Noodles (Can Choose Vegetarian) | 80 | 90 |
+| 麻將乾拌義麵 | Sesame Sauce Dry Tossed Noodles | 50 | 60 |
+| 菜菜乾拌蕎麥麵 | Vegetarian Sesame Sauce Noodles | 80 | 90 |
+| 馬醬乾拌義麵(大) | Large Sesame Sauce Dry Tossed Noodles | 75 | 85 |
+
+### 刀削麵類
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 菜菜咸煎刀削拌麵 | Noodle with Sesame Sauce and Fried Sauce | 80 | 90 |
+| 菜菜咸煎刀削拌麵(素) | Noodle with Sesame Sauce and Fried Sauce (Vegetarian) | 80 | 90 |
+| 宮廷炸刀削拌麵 | Spicy Fried Noodles | 80 | 90 |
+| 菜菜三杯刀削麵 | Three Cups Knife-Cut Noodles with Vegetables | 80 | 90 |
+
+### 湯麵類
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 義大利麵 | Pasta with Vegetables and Pork | 80 | 90 |
+| 泡菜義麵 | Kimchi Pasta | 65 | 75 |
+| 紫菜蕃茄烏龍湯麵 | Seaweed and Tomato Oolong Noodle Soup | 80 | 90 |
+| 蕃茄烏龍麵 | Tomato Udon | 80 | 90 |
+| 菜菜雙醬蕃茄烏龍麵 | Double Sauce Tomato Udon | 80 | 90 |
+| 菜菜雙醬蕃茄烏龍麵(素) | Double Sauce Tomato Udon (Vegetarian) | 80 | 90 |
+| 燒汁柴魚烏龍麵 | Sautéed Bonito Udon | 80 | 90 |
+| 菜菜三杯蕃茄烏龍麵 | Three Cups Tomato Udon Noodles with Vegetables | 80 | 90 |
+| 菜菜三杯義麵 | Three Cups Noodles with Vegetables | 80 | 90 |
+| 蒜香牛奶湯麵 | Garlic Milk Soup Noodles | 100 | 110 |
+
+### 其他麵類
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 蕎麥麵 | Soba Noodles | 80 | 90 |
+| 藜麥麵 | Quinoa Noodles | 80 | 90 |
+| 綠藻麵 | Chlorella Noodles | 80 | 90 |
+| 黃涼麵 | Yellow Cold Noodles | 80 | 90 |
+| 紅龍果涼麵 | Dragon Fruit Cold Noodles | 80 | 90 |
+| 三杯麵 | Three Cups Noodles | 80 | 90 |
+| 菜菜三杯麵 | Three Cups Noodles with Vegetables | 80 | 90 |
+
+### 小菜配菜
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 媽心蛋 | Soft-boiled Egg | 25 | 35 |
+| 舒肥雞 | Sous Vide Chicken Breast | 30 | 40 |
+| 滷豆芽菜 | Bean Sprouts | 30 | 40 |
+| 味噌湯(素) | Miso Soup (Vegetarian) | 15 | 25 |
+
+### 加購項目
+
+| 中文名稱 | 價格 |
+|---------|------|
+| 水煮蛋 | 10 |
+| 媽心蛋 | 25 |
+| 舒肥雞 | 30 |
+
+**備註：**
+- 校內優惠價 (On Campus)
+- 校外販售價 (Off Campus)
+
+</details>
