@@ -296,6 +296,8 @@
 
 **訂餐電話：** 02-2732-8277
 
+**線上訂餐：** https://chingshin.doteat.tw/menu?storeId=Yl0M7J4m-0000BLNBDU
+
 **營業時間：** 週六、週日 10:30 - 19:00
 
 ---
