@@ -292,6 +292,117 @@
 
 ---
 
+# 溫州大餛飩
+
+**電話：** 0917-255-880
+
+**營業時間：** 週六、週日 11:00 - 20:00
+
+<details>
+<summary>菜單</summary>
+
+**菜單僅供參考，實際品項、金額以店家公告為準**  
+**Menu is for reference only. Actual items and prices are subject to store announcements.**
+
+### 湯麵類 (Noodle Soup)
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 蝦肉餛飩麵 | Shrimp Wonton Noodles | 70 | 80 |
+| 菜肉餛飩麵 | Vegetables and Meat Wonton Noodles | 65 | 75 |
+| 鮮肉餛飩麵 | Fresh Meat Wonton Noodles | 60 | 70 |
+| 虱目魚麵 | Milkfish Noodles | 75 | 85 |
+| 榨菜肉絲麵 | Shredded Meat with Pickled Vegetable Noodles | 80 | 90 |
+| 牛肉河粉 | Beef Pho | 85 | 95 |
+| 豬肉河粉 | Pork Pho | 85 | 95 |
+| 過橋米線 | GuoQiao Rice-Flour Noodles | 85 | 95 |
+| 瘦肉麵 | Noodles with Lean Meat | 80 | 90 |
+| 豬肝麵 | Pork Liver Noodles | 75 | 85 |
+| 嘴邊肉麵 | Pork Jowl Noodles | 75 | 85 |
+| 蕃茄蛋花麵 | Tomato Egg Noodles | 75 | 85 |
+| 清江豆腐麵 | QingJiang Tofu Noodles | 60 | 70 |
+| 魯肉飯 | Braised Pork Rice | 50 | 60 |
+
+### 乾麵類 (Dried Noodles)
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 蝦肉炒手麵 | Stir-Fried Noodles with Shrimp | 90 | 100 |
+| 菜肉炒手麵 | Stir-Fried Noodles with Vegetables and Meat | 85 | 95 |
+| 鮮肉炒手麵 | Stir-Fried Noodles with Fresh Meat | 80 | 90 |
+| 香辣老虎麵 | Spicy Tiger Noodles | 55 | 65 |
+| 香辣老虎麵(大) | Spicy Tiger Noodles (Large) | 75 | 85 |
+| 炸醬麵 | Noodles with Soybean Paste | 55 | 65 |
+| 炸醬麵(大) | Noodles with Soybean Paste (Large) | 75 | 85 |
+| 麻醬麵 | Noodles with Sesame Sauce | 50 | 60 |
+| 麻醬麵(大) | Noodles with Sesame Sauce (Large) | 70 | 80 |
+| 旦旦麵 | DanDan Noodles (Chili Oil) | 50 | 60 |
+| 旦旦麵(大) | DanDan Noodles (Chili Oil) (Large) | 70 | 80 |
+| 乾拌粉 | Stir Fried Vermicelli | 75 | 85 |
+| 酸辣粉 | Sour and Spicy Vermicelli | 75 | 85 |
+| 雙醬麵 | Double Sauce Noodles (Sesame and Soybean Sauce) | 65 | 75 |
+| 雙醬麵(大) | Double Sauce Noodles (Sesame and Soybean Sauce) (Large) | 85 | 95 |
+
+### 炒麵類 (Fried Noodles)
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 沙茶牛肉炒麵 | Shacha Sauce Beef Fried Noodles | 85 | 95 |
+| 沙茶羊肉炒麵 | Shacha Sauce Lamb Fried Noodles | 85 | 95 |
+| 沙茶豬肉炒麵 | Shacha Sauce Pork Fried Noodles | 80 | 90 |
+| 蝦仁炒麵 | Shrimp Fried Noodles | 85 | 95 |
+| 蔬菜炒麵 | Vegetables Fried Noodles | 70 | 80 |
+
+### 炒飯類 (Fried Rice)
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 蝦仁蛋炒飯 | Shrimp and Egg Fried Rice | 85 | 95 |
+| 香腸蛋炒飯 | Sausages and Egg Fried Rice | 75 | 85 |
+| 火腿蛋炒飯 | Ham and Egg Fried Rice | 75 | 85 |
+| 肉絲蛋炒飯 | Sliced Meat and Egg Fried Rice | 75 | 85 |
+| 牛肉炒飯 | Beef Fried Rice | 85 | 95 |
+| 羊肉炒飯 | Lamb Fried Rice | 85 | 95 |
+
+### 套餐類 (Combo Meal)
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| A餐 老虎麵+綜合餛飩湯 | Meal A Tiger Noodles + Mixed Wonton Soup | 100 | 110 |
+| B餐 炸醬麵+綜合餛飩湯 | Meal B Soybean Paste Noodles + Mixed Wonton Soup | 100 | 110 |
+| C餐 麻醬麵+綜合餛飩湯 | Meal C Sesame Paste Noodles + Mixed Wonton Soup | 100 | 110 |
+| D餐 旦旦麵+綜合餛飩湯 | Meal D DanDan Noodles (Chili Oil) + Mixed Wonton Soup | 100 | 110 |
+
+### 炒手 (Dumplings)
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 蝦肉炒手 | Shrimp Dumplings | 70 | 80 |
+| 菜肉炒手 | Vegetables and Meat Dumplings | 65 | 75 |
+| 鮮肉炒手 | Fresh Meat Dumplings | 60 | 70 |
+
+### 湯品 (Soup)
+
+| 中文名稱 | 英文名稱 | 校內價格 | 校外價格 |
+|---------|----------|----------|----------|
+| 蝦肉餛飩湯 | Shrimp Wonton Soup | 65 | 75 |
+| 菜肉餛飩湯 | Vegetables and Meat Wonton Soup | 60 | 70 |
+| 鮮肉餛飩湯 | Fresh Meat Wonton Soup | 55 | 65 |
+| 青菜豆腐湯 | Vegetables and Tofu Soup | 30 | 40 |
+| 瘦肉湯 | Meat Soup | 55 | 65 |
+| 豬肝湯 | Pork Liver Soup | 55 | 65 |
+| 虱目魚雞湯 | Milkfish Soup | 65 | 75 |
+| 蕃茄蛋花湯 | Tomato and Egg Soup | 60 | 70 |
+
+**備註：**
+- 校內優惠價 (On Campus)
+- 校外販售價 (Off Campus)
+
+</details>
+
+
+---
+
 ## 清心福全
 
 **訂餐電話：** 02-2732-8277
