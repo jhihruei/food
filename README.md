@@ -411,6 +411,8 @@
 
 **營業時間：** 週六、週日 10:30 - 19:00
 
+**線上菜單：** https://chingshin.doteat.tw/menu?storeId=Yl0M7J4m-0000BLNBDU
+
 ---
 
 ## 摩斯漢堡
@@ -423,3 +425,5 @@
 - 選擇：台北市 > 大安區 > 台科大店
 
 **營業時間：** 週六、週日 08:00 - 19:00
+
+**線上菜單：** https://www.mos.com.tw/menu/set.aspx
